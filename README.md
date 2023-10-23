@@ -27,7 +27,10 @@
    </div>
 
 ### Studying in this moment:
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+<div>
+<img width="48" height="48" src="https://img.icons8.com/officel/80/react.png" alt="react"/>
+<img width="48" height="48" src="https://img.icons8.com/plasticine/100/api-settings.png" alt="api-settings"/>
+</div>
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
